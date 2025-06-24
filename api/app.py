@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "cf6d8a05-535d-47b0-b62c-104606ccfb6d",
    "metadata": {},
    "outputs": [],
@@ -28,7 +28,7 @@
     "        host=\"localhost\",\n",
     "        database=\"customer_bi\",\n",
     "        user=\"postgres\",\n",
-    "        password=\"YOUR_PASSWORD\"\n",
+    "        password=\"203010\"\n",
     "    )\n",
     "\n",
     "# ----------------------------\n",
